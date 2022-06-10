@@ -1,0 +1,187 @@
+G:\Winery\WineryMy\WineryMy\bin\Debug\WineryMy.exe.config
+G:\Winery\WineryMy\WineryMy\bin\Debug\WineryMy.exe
+G:\Winery\WineryMy\WineryMy\bin\Debug\WineryMy.pdb
+G:\Winery\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.AssemblyReference.cache
+G:\Winery\WineryMy\WineryMy\obj\Debug\MainWindow.g.cs
+G:\Winery\WineryMy\WineryMy\obj\Debug\App.g.cs
+G:\Winery\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.cache
+G:\Winery\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.lref
+G:\Winery\WineryMy\WineryMy\obj\Debug\MainWindow.baml
+G:\Winery\WineryMy\WineryMy\obj\Debug\WineryMy.g.resources
+G:\Winery\WineryMy\WineryMy\obj\Debug\WineryMy.Properties.Resources.resources
+G:\Winery\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.GenerateResource.cache
+G:\Winery\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.CoreCompileInputs.cache
+G:\Winery\WineryMy\WineryMy\obj\Debug\WineryMy.exe
+G:\Winery\WineryMy\WineryMy\obj\Debug\WineryMy.pdb
+G:\WineryMy\WineryMy\bin\Debug\WineryMy.exe.config
+G:\WineryMy\WineryMy\bin\Debug\WineryMy.exe
+G:\WineryMy\WineryMy\bin\Debug\WineryMy.pdb
+G:\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.AssemblyReference.cache
+G:\WineryMy\WineryMy\obj\Debug\MainWindow.g.cs
+G:\WineryMy\WineryMy\obj\Debug\App.g.cs
+G:\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.cache
+G:\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.lref
+G:\WineryMy\WineryMy\obj\Debug\MainWindow.baml
+G:\WineryMy\WineryMy\obj\Debug\WineryMy.g.resources
+G:\WineryMy\WineryMy\obj\Debug\WineryMy.Properties.Resources.resources
+G:\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.GenerateResource.cache
+G:\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.CoreCompileInputs.cache
+G:\WineryMy\WineryMy\obj\Debug\WineryMy.exe
+G:\WineryMy\WineryMy\obj\Debug\WineryMy.pdb
+G:\WineryMy\WineryMy\obj\Debug\Forms\Staff.g.cs
+G:\WineryMy\WineryMy\obj\Debug\Forms\Staff.baml
+G:\db1\WineryMy\WineryMy\bin\Debug\WineryMy.exe.config
+G:\db1\WineryMy\WineryMy\bin\Debug\WineryMy.exe
+G:\db1\WineryMy\WineryMy\bin\Debug\WineryMy.pdb
+G:\db1\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.AssemblyReference.cache
+G:\db1\WineryMy\WineryMy\obj\Debug\Forms\Staff.g.cs
+G:\db1\WineryMy\WineryMy\obj\Debug\MainWindow.g.cs
+G:\db1\WineryMy\WineryMy\obj\Debug\App.g.cs
+G:\db1\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.cache
+G:\db1\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.lref
+G:\db1\WineryMy\WineryMy\obj\Debug\Forms\Staff.baml
+G:\db1\WineryMy\WineryMy\obj\Debug\MainWindow.baml
+G:\db1\WineryMy\WineryMy\obj\Debug\WineryMy.g.resources
+G:\db1\WineryMy\WineryMy\obj\Debug\WineryMy.Properties.Resources.resources
+G:\db1\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.GenerateResource.cache
+G:\db1\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.CoreCompileInputs.cache
+G:\db1\WineryMy\WineryMy\obj\Debug\WineryMy.exe
+G:\db1\WineryMy\WineryMy\obj\Debug\WineryMy.pdb
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.AssemblyReference.cache
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Forms\Staff.g.cs
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\MainWindow.g.cs
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\App.g.cs
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.cache
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.lref
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\WineryMy.exe
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\WineryMy.pdb
+G:\WineryDB\db2\WineryMy\WineryMy\bin\Debug\WineryMy.exe.config
+G:\WineryDB\db2\WineryMy\WineryMy\bin\Debug\WineryMy.exe
+G:\WineryDB\db2\WineryMy\WineryMy\bin\Debug\WineryMy.pdb
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Staff_Window.g.cs
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Forms\Staff.baml
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\MainWindow.baml
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Staff_Window.baml
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\WineryMy.g.resources
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\WineryMy.Properties.Resources.resources
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.GenerateResource.cache
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.CoreCompileInputs.cache
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Equipment_Window.g.cs
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Equipment_Window.baml
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Stock_Window.g.cs
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Stock_Window.baml
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Wine_Window.g.cs
+G:\WineryDB\db2\WineryMy\WineryMy\obj\Debug\Wine_Window.baml
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\bin\Debug\WineryMy.exe.config
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\bin\Debug\WineryMy.exe
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\bin\Debug\WineryMy.pdb
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.AssemblyReference.cache
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Equipment_Window.g.cs
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Forms\Staff.g.cs
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\MainWindow.g.cs
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Staff_Window.g.cs
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Stock_Window.g.cs
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Wine_Window.g.cs
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\App.g.cs
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.cache
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.lref
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Equipment_Window.baml
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Forms\Staff.baml
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\MainWindow.baml
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Staff_Window.baml
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Stock_Window.baml
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Wine_Window.baml
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\WineryMy.g.resources
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\WineryMy.Properties.Resources.resources
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.GenerateResource.cache
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.CoreCompileInputs.cache
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\WineryMy.exe
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\WineryMy.pdb
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Plantation.g.cs
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\Plantation.baml
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\RoomFactory_Window.g.cs
+G:\WineryDB\DBWinery 13.05.2022\WineryMy\WineryMy\obj\Debug\RoomFactory_Window.baml
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\bin\Debug\WineryMy.exe.config
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\bin\Debug\WineryMy.exe
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\bin\Debug\WineryMy.pdb
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.AssemblyReference.cache
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Equipment_Window.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Forms\Staff.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\MainWindow.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Plantation.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\RoomFactory_Window.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Staff_Window.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Stock_Window.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Wine_Window.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\App.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.cache
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.lref
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Equipment_Window.baml
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Forms\Staff.baml
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\MainWindow.baml
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Plantation.baml
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\RoomFactory_Window.baml
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Staff_Window.baml
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Stock_Window.baml
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Wine_Window.baml
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\WineryMy.g.resources
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\WineryMy.Properties.Resources.resources
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.GenerateResource.cache
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.CoreCompileInputs.cache
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\WineryMy.exe
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\WineryMy.pdb
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Raw_material.g.cs
+G:\26.05\WineryMy-20220526T061847Z-001\WineryMy\WineryMy\obj\Debug\Raw_material.baml
+G:\27.05 winery\WineryMy\WineryMy\bin\Debug\WineryMy.exe.config
+G:\27.05 winery\WineryMy\WineryMy\bin\Debug\WineryMy.exe
+G:\27.05 winery\WineryMy\WineryMy\bin\Debug\WineryMy.pdb
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.AssemblyReference.cache
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Equipment_Window.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Forms\Staff.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\MainWindow.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Plantation.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Raw_material.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\RoomFactory_Window.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Staff_Window.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Stock_Window.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Wine_Window.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\App.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.cache
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\WineryMy_MarkupCompile.lref
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Equipment_Window.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Forms\Staff.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\MainWindow.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Plantation.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Raw_material.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\RoomFactory_Window.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Staff_Window.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Stock_Window.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Wine_Window.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\WineryMy.g.resources
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\WineryMy.Properties.Resources.resources
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.GenerateResource.cache
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\WineryMy.csproj.CoreCompileInputs.cache
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\WineryMy.exe
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\WineryMy.pdb
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Stages_window.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Stages_window.baml
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Process.g.cs
+G:\27.05 winery\WineryMy\WineryMy\obj\Debug\Process.baml
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\WineryMy.csproj.AssemblyReference.cache
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\WineryMy.csproj.SuggestedBindingRedirects.cache
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\Equipment_Window.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\Forms\Staff.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\MainWindow.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\Plantation.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\Process.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\Raw_material.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\RoomFactory_Window.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\Staff_Window.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\Stages_window.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\Stock_Window.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\Wine_Window.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\App.g.cs
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\WineryMy_MarkupCompile.cache
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\WineryMy_MarkupCompile.lref
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\WineryMy.exe
+F:\C#\WineryMy27.05\WineryMy\obj\Debug\WineryMy.pdb
